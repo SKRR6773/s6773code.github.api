@@ -1,4 +1,5 @@
 {
     "status": true,
-    "url": "192.168.1.111/center-api"
+    "url": "http://192.168.1.111/center-api",
+    "version": "1.2"
 }
